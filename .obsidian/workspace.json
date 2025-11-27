@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
