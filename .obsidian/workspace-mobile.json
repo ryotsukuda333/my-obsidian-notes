@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Areas/investment/投資メモ.md",
+                "file": "00_Inbox/ネタ調.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "投資メモ"
+              "title": "ネタ調"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "94b680e029355fd3",
   "lastOpenFiles": [
-    "00_Inbox/ネタ調.md",
     "20_Areas/investment/投資メモ.md",
+    "00_Inbox/ネタ調.md",
     "20_Areas/tech/エンジニアフローメモ.md",
     "/20_Areas/tech/エンジニアフローメモ.md",
     "/20_Areas/investment/投資メモ.md",
